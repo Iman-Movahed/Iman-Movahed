@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi there, I'm Marta!
 
-<!--
-**Iman-Movahed/Iman-Movahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious and passionate learner with a background in IT and international trade.
+After several years working in the export business and banking tech, I’m now fully focused on learning **Python** and exploring the world of **AI**, **automation**, and **tech for agriculture**.
 
-Here are some ideas to get you started:
+🎯 My current goal: Become a confident Python developer with a strong portfolio.
+🌱 I'm currently learning: Python, Git, GitHub, and basic web development
+📚 Upcoming interests: AI, data analysis, and real-world tech solutions
+💡 Open to: Mentorship, collaboration, and real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s build something meaningful together.
+
+> “Until I discover my art, I know my depression will persist.”
+
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/your-link)
