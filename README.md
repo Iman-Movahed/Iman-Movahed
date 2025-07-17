@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Marta!
+### 👋 Hi there, I'm Iman!
 
 I'm a curious and passionate learner with a background in IT and international trade.
 After several years working in the export business and banking tech, I’m now fully focused on learning **Python** and exploring the world of **AI**, **automation**, and **tech for agriculture**.
